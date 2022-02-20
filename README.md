@@ -3,9 +3,9 @@
 <p align="center">
     <img src="Demo.png" width="65%"/>
 </p>
-A 16-to-64-bit Bootstrapper.
+A 16-to-64-bit BIOS Bootstrapper.
 
-## Initialiation Process
+## Initialization Process
 1. Start from 16-bit BIOS
 2. Load Second-Stage from Hard Disk, USB or Floppy
 3. Implement Basic support for printing hexadecimal strings
