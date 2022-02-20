@@ -1,0 +1,6 @@
+# SHA1 sum for ProLoader
+# Trademark™ and Copyright© Darius Inc.
+# March 31st 2021
+
+7333443789a161af1cf88c3d3b6c80e37c04a04a        build/ProLoader.img (Pro Multi-Stage Loader)
+2827f4ab7c92d5f349b6e6c859250490aaf58295	o++ (O++ Assembler 1.0)
